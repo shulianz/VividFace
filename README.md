@@ -26,7 +26,7 @@ Extensive experiments demonstrate that VividFace achieves superior performance i
 
 | Case 1 | Case 2 |
 | :---: | :---: |
-| <video src="https://shulianz.github.io/VividFace-Page/static/videos/1.mp4" /> | <video src="https://shulianz.github.io/VividFace-Page/static/videos/2.mp4" /> |
+| <video src="https://github.com/user-attachments/assets/df5c2818-ef21-4cfa-8b96-48de895131f5" controls width="400"></video> | <video src="https://github.com/user-attachments/assets/a355b2f0-05da-4bc1-ae59-eec52f98257e" controls width="400"></video> |
 
 ---
 
