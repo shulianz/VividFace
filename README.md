@@ -65,9 +65,9 @@ models/
 
 ### VividFace Checkpoint
 
-Download our pretrained checkpoint from [Releases](https://github.com/shulianz/VividFace/releases) and place it under `models/`:
+Download our pretrained checkpoint `vividface.ckpt` from [Hugging Face](https://huggingface.co/shulianz/VividFace/resolve/main/vividface.ckpt) and place it under `models/`:
 
-```
+```text
 models/
 └── vividface.ckpt
 ```
